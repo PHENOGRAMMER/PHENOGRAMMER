@@ -83,14 +83,15 @@ I engineer intelligent systems designed for performance, scalability, and real-w
 
 ---
 
-# 📊 GitHub Power Metrics
+# 🧪 Currently Engineering
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PHENOGRAMMER&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHENOGRAMMER&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
+🧠 Advancing transformer-based NLP systems  
+⚡ Optimizing GPU inference pipelines  
+🎯 Building real-time perception systems  
+🏗 Designing modular AI architectures  
 
 ---
+
 
 # 🌍 Connect With Me
 
